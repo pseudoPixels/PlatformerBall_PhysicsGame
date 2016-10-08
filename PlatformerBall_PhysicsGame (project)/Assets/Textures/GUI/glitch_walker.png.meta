@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 24f38d2381bdaa4488d50ff940d84130
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: glitch_walker_0
+    21300002: glitch_walker_1
+    21300004: glitch_walker_2
+    21300006: glitch_walker_3
+    21300008: glitch_walker_4
+    21300010: glitch_walker_5
+    21300012: glitch_walker_6
+    21300014: glitch_walker_7
+    21300016: glitch_walker_8
+    21300018: glitch_walker_9
+    21300020: glitch_walker_10
+    21300022: glitch_walker_11
+    21300024: glitch_walker_12
+    21300026: glitch_walker_13
+    21300028: glitch_walker_14
+    21300030: glitch_walker_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: glitch_walker_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 117
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 115
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 115
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 114
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 114
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 115
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 116
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_7
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 117
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glitch_walker_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 3
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
